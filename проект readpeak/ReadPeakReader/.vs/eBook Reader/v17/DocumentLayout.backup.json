@@ -1,0 +1,1033 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\eBook-Reader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\viewmodel\\readbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\viewmodel\\readbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\viewmodel\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\viewmodel\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\viewmodel\\mainmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\viewmodel\\mainmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\viewmodel\\favoritebooksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\viewmodel\\favoritebooksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\viewmodel\\booksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\viewmodel\\booksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\viewmodel\\allbooksviewmodel.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\viewmodel\\allbooksviewmodel.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\view\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\readbookview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\view\\readbookview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\mainmenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\view\\mainmenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\favoritebooksview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\view\\favoritebooksview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\allbooksview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\view\\allbooksview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\allbooksview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\view\\allbooksview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\view\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\utils\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\utils\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\utils\\serializableprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\utils\\serializableprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\utils\\progressserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\utils\\progressserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\styles\\checkboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\styles\\checkboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\readingsettingscommands\\increasemarginwidthcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\readingsettingscommands\\increasemarginwidthcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\readingsettingscommands\\decreasemarginwidthcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\readingsettingscommands\\decreasemarginwidthcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\readingsettingscommands\\increaselinespacingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\readingsettingscommands\\increaselinespacingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\readingsettingscommands\\decreaselinespacingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\readingsettingscommands\\decreaselinespacingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\readbookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\view\\readbookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\navigationcommands\\navigatereadbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\navigationcommands\\navigatereadbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\navigationcommands\\navigatebackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\navigationcommands\\navigatebackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\navigationcommands\\navigatemenucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\navigationcommands\\navigatemenucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\managelibrary\\addbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\commands\\managelibrary\\addbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\managelibrary\\sortcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\managelibrary\\sortcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\managelibrary\\removefavoritemarkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\managelibrary\\removefavoritemarkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\managelibrary\\markfavoritecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\managelibrary\\markfavoritecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\managelibrary\\emptylibrarycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\commands\\managelibrary\\emptylibrarycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\managelibrary\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\commands\\managelibrary\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\managelibrary\\changelibrarypathcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\commands\\managelibrary\\changelibrarypathcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\commands\\generalsettings\\backdefaultsettingscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\commands\\generalsettings\\backdefaultsettingscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\properties\\displaybooksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\properties\\displaybooksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\stores\\menunavigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\stores\\menunavigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\controlextensions\\flowdocumentreaderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\controlextensions\\flowdocumentreaderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\view\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\view\\favoritebooksview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\view\\favoritebooksview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\icons\\readingsettings\\plus.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\icons\\readingsettings\\plus.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\icons\\readingsettings\\minus.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\icons\\readingsettings\\minus.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\icons\\sort\\sort_down_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\icons\\sort\\sort_down_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\icons\\sort\\sort_up_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\icons\\sort\\sort_up_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\icons\\bar\\8673614_ic_fluent_maximize_filled_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\icons\\bar\\8673614_ic_fluent_maximize_filled_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\icons\\bar\\8530586_window_minimize_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\icons\\bar\\8530586_window_minimize_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\icons\\bar\\9004828_cross_delete_remove_cancel_icon (1).png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\ReadPeakReader.csproj|solutionrelative:ebook reader\\icons\\bar\\9004828_cross_delete_remove_cancel_icon (1).png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\styles\\tabcontrolitemstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\styles\\tabcontrolitemstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\bin\\release\\net7.0-windows\\booklist.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\bin\\release\\net7.0-windows\\booklist.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\model\\sortparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\model\\sortparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|c:\\users\\user\\source\\repos\\ebook-reader\\ebook reader\\bin\\debug\\net7.0-windows\\booklist.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F97A296-8BAA-4B2E-852E-2C85121D195A}|eBook Reader\\eBook Reader.csproj|solutionrelative:ebook reader\\bin\\debug\\net7.0-windows\\booklist.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 620,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadBookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\ReadBookViewModel.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\ViewModel\\ReadBookViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\ReadBookViewModel.cs",
+              "RelativeToolTip": "eBook Reader\\ViewModel\\ReadBookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:41:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "eBook Reader\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:41:12.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\MainMenuViewModel.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\ViewModel\\MainMenuViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\MainMenuViewModel.cs",
+              "RelativeToolTip": "eBook Reader\\ViewModel\\MainMenuViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:41:05.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FavoriteBooksViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\FavoriteBooksViewModel.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\ViewModel\\FavoriteBooksViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\FavoriteBooksViewModel.cs",
+              "RelativeToolTip": "eBook Reader\\ViewModel\\FavoriteBooksViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:40:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\ViewModel\\SettingsViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\SettingsViewModel.cs",
+              "RelativeToolTip": "eBook Reader\\ViewModel\\SettingsViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:28:50.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\SettingsView.xaml.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\SettingsView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\SettingsView.xaml.cs",
+              "RelativeToolTip": "eBook Reader\\View\\SettingsView.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:08:19.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadBookView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\ReadBookView.xaml.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\ReadBookView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\ReadBookView.xaml.cs",
+              "RelativeToolTip": "eBook Reader\\View\\ReadBookView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:49:08.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenuView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\eBook-Reader\\eBook Reader\\View\\MainMenuView.xaml.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\MainMenuView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\eBook-Reader\\eBook Reader\\View\\MainMenuView.xaml.cs",
+              "RelativeToolTip": "eBook Reader\\View\\MainMenuView.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:25:22.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "eBook Reader\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:08:18.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllBooksViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\AllBooksViewModel.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\ViewModel\\AllBooksViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\AllBooksViewModel.cs",
+              "RelativeToolTip": "eBook Reader\\ViewModel\\AllBooksViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAArwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:14:54.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\BooksViewModel.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\ViewModel\\BooksViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ViewModel\\BooksViewModel.cs",
+              "RelativeToolTip": "eBook Reader\\ViewModel\\BooksViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:14:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavoriteBooksView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\FavoriteBooksView.xaml.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\FavoriteBooksView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\FavoriteBooksView.xaml.cs",
+              "RelativeToolTip": "eBook Reader\\View\\FavoriteBooksView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:37:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AllBooksView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\AllBooksView.xaml.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\AllBooksView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\AllBooksView.xaml.cs",
+              "RelativeToolTip": "eBook Reader\\View\\AllBooksView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:15:08.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingsView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\SettingsView.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\SettingsView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\SettingsView.xaml",
+              "RelativeToolTip": "eBook Reader\\View\\SettingsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T21:16:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Utils\\Serializer.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Utils\\Serializer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Utils\\Serializer.cs",
+              "RelativeToolTip": "eBook Reader\\Utils\\Serializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:36:15.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AllBooksView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\AllBooksView.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\AllBooksView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\AllBooksView.xaml",
+              "RelativeToolTip": "eBook Reader\\View\\AllBooksView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T20:24:42.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SerializableProgress.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Utils\\SerializableProgress.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Utils\\SerializableProgress.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Utils\\SerializableProgress.cs",
+              "RelativeToolTip": "eBook Reader\\Utils\\SerializableProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:36:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProgressSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Utils\\ProgressSerializer.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Utils\\ProgressSerializer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Utils\\ProgressSerializer.cs",
+              "RelativeToolTip": "eBook Reader\\Utils\\ProgressSerializer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:36:06.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckBoxStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Styles\\CheckBoxStyle.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\Styles\\CheckBoxStyle.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Styles\\CheckBoxStyle.xaml",
+              "RelativeToolTip": "eBook Reader\\Styles\\CheckBoxStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T20:24:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommandBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\CommandBase.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\CommandBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\CommandBase.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\CommandBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:52:33.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IncreaseMarginWidthCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ReadingSettingsCommands\\IncreaseMarginWidthCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ReadingSettingsCommands\\IncreaseMarginWidthCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ReadingSettingsCommands\\IncreaseMarginWidthCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ReadingSettingsCommands\\IncreaseMarginWidthCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:52:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DecreaseMarginWidthCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ReadingSettingsCommands\\DecreaseMarginWidthCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ReadingSettingsCommands\\DecreaseMarginWidthCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ReadingSettingsCommands\\DecreaseMarginWidthCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ReadingSettingsCommands\\DecreaseMarginWidthCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:32:37.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IncreaseLineSpacingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ReadingSettingsCommands\\IncreaseLineSpacingCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ReadingSettingsCommands\\IncreaseLineSpacingCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ReadingSettingsCommands\\IncreaseLineSpacingCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ReadingSettingsCommands\\IncreaseLineSpacingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:52:40.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DecreaseLineSpacingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ReadingSettingsCommands\\DecreaseLineSpacingCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ReadingSettingsCommands\\DecreaseLineSpacingCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ReadingSettingsCommands\\DecreaseLineSpacingCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ReadingSettingsCommands\\DecreaseLineSpacingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:13:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReadBookView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\ReadBookView.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\ReadBookView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\ReadBookView.xaml",
+              "RelativeToolTip": "eBook Reader\\View\\ReadBookView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T21:14:57.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NavigateReadBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\NavigationCommands\\NavigateReadBookCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\NavigationCommands\\NavigateReadBookCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\NavigationCommands\\NavigateReadBookCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\NavigationCommands\\NavigateReadBookCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:52:49.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NavigateBackCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\NavigationCommands\\NavigateBackCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\NavigationCommands\\NavigateBackCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\NavigationCommands\\NavigateBackCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\NavigationCommands\\NavigateBackCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:52:55.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NavigateMenuCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\NavigationCommands\\NavigateMenuCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\NavigationCommands\\NavigateMenuCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\NavigationCommands\\NavigateMenuCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\NavigationCommands\\NavigateMenuCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:52:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\AddBookCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ManageLibrary\\AddBookCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\AddBookCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ManageLibrary\\AddBookCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:14:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SortCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\SortCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ManageLibrary\\SortCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\SortCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ManageLibrary\\SortCommand.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:13:12.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RemoveFavoriteMarkCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\RemoveFavoriteMarkCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ManageLibrary\\RemoveFavoriteMarkCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\RemoveFavoriteMarkCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ManageLibrary\\RemoveFavoriteMarkCommand.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:52:23.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MarkFavoriteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\MarkFavoriteCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ManageLibrary\\MarkFavoriteCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\MarkFavoriteCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ManageLibrary\\MarkFavoriteCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:14:12.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmptyLibraryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\EmptyLibraryCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ManageLibrary\\EmptyLibraryCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\EmptyLibraryCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ManageLibrary\\EmptyLibraryCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:14:54.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ManageLibrary\\DeleteBookCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\DeleteBookCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ManageLibrary\\DeleteBookCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwDMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:14:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChangeLibraryPathCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\ChangeLibraryPathCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\ManageLibrary\\ChangeLibraryPathCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\ManageLibrary\\ChangeLibraryPathCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\ManageLibrary\\ChangeLibraryPathCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:52:20.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BackDefaultSettingsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\GeneralSettings\\BackDefaultSettingsCommand.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Commands\\GeneralSettings\\BackDefaultSettingsCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Commands\\GeneralSettings\\BackDefaultSettingsCommand.cs",
+              "RelativeToolTip": "eBook Reader\\Commands\\GeneralSettings\\BackDefaultSettingsCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:13:37.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DisplayBookSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Properties\\DisplayBookSettings.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Properties\\DisplayBookSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Properties\\DisplayBookSettings.cs",
+              "RelativeToolTip": "eBook Reader\\Properties\\DisplayBookSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:37:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\App.xaml.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\App.xaml.cs",
+              "RelativeToolTip": "eBook Reader\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:22:01.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FlowDocumentReaderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ControlExtensions\\FlowDocumentReaderExtension.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\ControlExtensions\\FlowDocumentReaderExtension.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\ControlExtensions\\FlowDocumentReaderExtension.cs",
+              "RelativeToolTip": "eBook Reader\\ControlExtensions\\FlowDocumentReaderExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:36:33.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NavigationStore.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Stores\\NavigationStore.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Stores\\NavigationStore.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Stores\\NavigationStore.cs",
+              "RelativeToolTip": "eBook Reader\\Stores\\NavigationStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:24:19.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MenuNavigationStore.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Stores\\MenuNavigationStore.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Stores\\MenuNavigationStore.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Stores\\MenuNavigationStore.cs",
+              "RelativeToolTip": "eBook Reader\\Stores\\MenuNavigationStore.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:24:15.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\MainWindow.xaml",
+              "RelativeToolTip": "eBook Reader\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T21:14:41.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MainMenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\MainMenuView.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\MainMenuView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\MainMenuView.xaml",
+              "RelativeToolTip": "eBook Reader\\View\\MainMenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T20:25:17.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FavoriteBooksView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\FavoriteBooksView.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\View\\FavoriteBooksView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\View\\FavoriteBooksView.xaml",
+              "RelativeToolTip": "eBook Reader\\View\\FavoriteBooksView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T20:25:04.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "plus.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\ReadingSettings\\plus.png",
+              "RelativeDocumentMoniker": "eBook Reader\\Icons\\ReadingSettings\\plus.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\ReadingSettings\\plus.png",
+              "RelativeToolTip": "eBook Reader\\Icons\\ReadingSettings\\plus.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-23T21:44:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "minus.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\ReadingSettings\\minus.png",
+              "RelativeDocumentMoniker": "eBook Reader\\Icons\\ReadingSettings\\minus.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\ReadingSettings\\minus.png",
+              "RelativeToolTip": "eBook Reader\\Icons\\ReadingSettings\\minus.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-23T21:44:22.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "sort_down_icon.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Sort\\sort_down_icon.png",
+              "RelativeDocumentMoniker": "eBook Reader\\Icons\\Sort\\sort_down_icon.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Sort\\sort_down_icon.png",
+              "RelativeToolTip": "eBook Reader\\Icons\\Sort\\sort_down_icon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-23T21:44:20.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "sort_up_icon.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Sort\\sort_up_icon.png",
+              "RelativeDocumentMoniker": "eBook Reader\\Icons\\Sort\\sort_up_icon.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Sort\\sort_up_icon.png",
+              "RelativeToolTip": "eBook Reader\\Icons\\Sort\\sort_up_icon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-23T21:44:19.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "8673614_ic_fluent_maximize_filled_icon.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Bar\\8673614_ic_fluent_maximize_filled_icon.png",
+              "RelativeDocumentMoniker": "eBook Reader\\Icons\\Bar\\8673614_ic_fluent_maximize_filled_icon.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Bar\\8673614_ic_fluent_maximize_filled_icon.png",
+              "RelativeToolTip": "eBook Reader\\Icons\\Bar\\8673614_ic_fluent_maximize_filled_icon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-23T21:44:14.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "8530586_window_minimize_icon.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Bar\\8530586_window_minimize_icon.png",
+              "RelativeDocumentMoniker": "eBook Reader\\Icons\\Bar\\8530586_window_minimize_icon.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Bar\\8530586_window_minimize_icon.png",
+              "RelativeToolTip": "eBook Reader\\Icons\\Bar\\8530586_window_minimize_icon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-23T21:44:12.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "9004828_cross_delete_remove_cancel_icon (1).png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Bar\\9004828_cross_delete_remove_cancel_icon (1).png",
+              "RelativeDocumentMoniker": "eBook Reader\\Icons\\Bar\\9004828_cross_delete_remove_cancel_icon (1).png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Icons\\Bar\\9004828_cross_delete_remove_cancel_icon (1).png",
+              "RelativeToolTip": "eBook Reader\\Icons\\Bar\\9004828_cross_delete_remove_cancel_icon (1).png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-23T21:44:09.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TabControlItemStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\eBook-Reader\\eBook Reader\\Styles\\TabControlItemStyle.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\Styles\\TabControlItemStyle.xaml",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\eBook-Reader\\eBook Reader\\Styles\\TabControlItemStyle.xaml",
+              "RelativeToolTip": "eBook Reader\\Styles\\TabControlItemStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T21:13:55.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BookList.xml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\bin\\Release\\net7.0-windows\\BookList.xml",
+              "RelativeDocumentMoniker": "eBook Reader\\bin\\Release\\net7.0-windows\\BookList.xml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\bin\\Release\\net7.0-windows\\BookList.xml",
+              "RelativeToolTip": "eBook Reader\\bin\\Release\\net7.0-windows\\BookList.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-23T21:13:50.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Model\\Book.cs",
+              "RelativeToolTip": "eBook Reader\\Model\\Book.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:23:18.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SortParameter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Model\\SortParameter.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\Model\\SortParameter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\Model\\SortParameter.cs",
+              "RelativeToolTip": "eBook Reader\\Model\\SortParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:35:54.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\App.config",
+              "RelativeDocumentMoniker": "eBook Reader\\App.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\App.config",
+              "RelativeToolTip": "eBook Reader\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-23T20:22:01.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\App.xaml",
+              "RelativeDocumentMoniker": "eBook Reader\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\App.xaml",
+              "RelativeToolTip": "eBook Reader\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T20:21:50.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "eBook Reader\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\AssemblyInfo.cs",
+              "RelativeToolTip": "eBook Reader\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:16:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BookList.xml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\bin\\Debug\\net7.0-windows\\BookList.xml",
+              "RelativeDocumentMoniker": "eBook Reader\\bin\\Debug\\net7.0-windows\\BookList.xml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\eBook-Reader\\eBook Reader\\bin\\Debug\\net7.0-windows\\BookList.xml",
+              "RelativeToolTip": "eBook Reader\\bin\\Debug\\net7.0-windows\\BookList.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-23T20:14:54.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 583,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

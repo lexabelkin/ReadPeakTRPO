@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\AllBooksView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\FavoriteBooksView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MainMenuView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ReadBookView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Styles\BackgroundRadioButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button\AddButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button\BackButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button\BarButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button\PlayButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button\SettingsButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\CheckBoxStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ComboBoxItemStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\FlowDocumentReaderStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\LibraryPathTextBoxStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button\ListButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button\MenuButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button\NavigateSettingsButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ComboBoxStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\MainWindowStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ScrollBarStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TabControlItemStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AllBooksView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\FavoriteBooksView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MainMenuView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ReadBookView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+﻿<Application x:Class="eBook_Reader.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:eBook_Reader">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/CheckBoxStyle.xaml" />
+                <ResourceDictionary Source="Styles/Button/MenuButtonStyle.xaml" />
+                <ResourceDictionary Source="Styles/Button/AddButtonStyle.xaml" />
+                <ResourceDictionary Source="Styles/Button/ListButtonStyle.xaml" />
+                <ResourceDictionary Source="Styles/Button/NavigateSettingsButtonStyle.xaml" />
+                <ResourceDictionary Source="Styles/Button/BarButtonStyle.xaml" />
+                <ResourceDictionary Source="Styles/ComboBoxStyle.xaml" />
+                <ResourceDictionary Source="Styles/ComboBoxItemStyle.xaml" />
+                <ResourceDictionary Source="Styles/Button/BackButtonStyle.xaml" />
+                <ResourceDictionary Source="Styles/TabControlItemStyle.xaml" />
+                <ResourceDictionary Source="Styles/LibraryPathTextBoxStyle.xaml" />
+                <ResourceDictionary Source="Styles/Button/SettingsButtonStyle.xaml" />
+                <ResourceDictionary Source="Styles/BackgroundRadioButtonStyle.xaml" />
+                <ResourceDictionary Source="Styles/MainWindowStyle.xaml" />
+                <ResourceDictionary Source="Styles/FlowDocumentReaderStyle.xaml" />
+                <ResourceDictionary Source="Styles/Button/PlayButtonStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

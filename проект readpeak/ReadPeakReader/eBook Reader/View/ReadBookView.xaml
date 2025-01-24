@@ -1,0 +1,173 @@
+﻿<UserControl x:Class="eBook_Reader.View.ReadBookView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:viewmodel="clr-namespace:eBook_Reader.ViewModel"
+             xmlns:local="clr-namespace:eBook_Reader.View" 
+             xmlns:ex="clr-namespace:eBook_Reader.ControlExtensions"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:properties="clr-namespace:eBook_Reader.Properties"
+             d:DataContext="{d:DesignInstance Type=viewmodel:ReadBookViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             x:Name="userControl"
+             Loaded="UserControl_Loaded">
+
+    <Grid Background="{Binding Source={x:Static properties:DisplayBookSettings.Default}, Path=BackgroundColor, UpdateSourceTrigger=PropertyChanged}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <DockPanel Background="#e7dbb1"
+                   Grid.Row="0" Panel.ZIndex="1">
+            <Button Style="{DynamicResource BackButtonStyle}" 
+                    Command="{Binding NavigateBackCommand}" 
+                    Height="45" Width="45"
+                    HorizontalAlignment="Left">
+                <Image Source="/Icons/Back/216437_back_arrow_icon.png" Margin="5" 
+                       RenderOptions.BitmapScalingMode="HighQuality" />
+            </Button>
+            <Canvas Name="canvas" Panel.ZIndex="5">
+                <Button Style="{DynamicResource BackButtonStyle}" Canvas.Right="0"
+                        Height="45" Width="45" 
+                        Name="settigsButton" 
+                        Click="settingsButton_Click">
+                    <Image Source="/Icons/settings.png" Margin="8" 
+                           RenderOptions.BitmapScalingMode="HighQuality" />
+                </Button>
+                <Border Height="100"
+                        Width="{Binding ElementName=userControl, Path=ActualWidth}"
+                        Background="#ede4c4"
+                        Panel.ZIndex="1"
+                        BorderBrush="Gray" CornerRadius="5 0 5 5" Name="brd"
+                        HorizontalAlignment="Center"
+                        Canvas.Top="{Binding ElementName=settigsButton, Path=ActualHeight}"
+                        Canvas.Right="0">
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Margin="10 0 10 10" Width="110">
+                            <TextBlock Margin="5" Padding="5" FontSize="15"
+                                       HorizontalAlignment="Center"
+                                       TextWrapping="Wrap" 
+                                       Text="Line spacing" />
+                            <StackPanel Grid.Column="1" 
+                                        Orientation="Horizontal" 
+                                        HorizontalAlignment="Center">
+                                <Button Style="{DynamicResource BackButtonStyle}"
+                                        Command="{Binding IncreaseLineSpacingCommand}"
+                                        Name="increaseSpacingButton"
+                                    Width="50" Height="40">
+                                    <Image Source="/Icons/ReadingSettings/plus.png" />
+                                </Button>
+                                <Button Style="{DynamicResource BackButtonStyle}"
+                                        Command="{Binding DecreaseLineSpacingCommand}"
+                                    Width="50" Height="40">
+                                    <Image Source="/Icons/ReadingSettings/minus.png" />
+                                </Button>
+                            </StackPanel>
+                        </StackPanel>
+                        <Line Y1="0" Y2="70" VerticalAlignment="Center" Stroke="#e5d8a9" StrokeThickness="2" />
+                        <StackPanel Margin="10 0 10 10" Width="130">
+                            <TextBlock Margin="5" Padding="5" FontSize="15"
+                                       HorizontalAlignment="Center"
+                                       TextWrapping="Wrap" 
+                                       Text="Margin width" />
+                            <StackPanel Grid.Column="1" 
+                                        Orientation="Horizontal" 
+                                        HorizontalAlignment="Center">
+                                <Button Style="{DynamicResource BackButtonStyle}"
+                                        Command="{Binding IncreaseMarginWidthCommand}"
+                                        Name="increaseButton"
+                                    Width="50" Height="40">
+                                    <Image Source="/Icons/ReadingSettings/plus.png" />
+                                </Button>
+                                <Button Style="{DynamicResource BackButtonStyle}"
+                                        Command="{Binding DecreaseMarginWidthCommand}"
+                                    Width="50" Height="40">
+                                    <Image Source="/Icons/ReadingSettings/minus.png" />
+                                </Button>
+                            </StackPanel>
+                        </StackPanel>
+                        <Line Y1="0" Y2="70" VerticalAlignment="Center" Stroke="#e5d8a9" StrokeThickness="2" />
+                        <StackPanel Margin="20 0 20 10">
+                            <TextBlock Text="Alignment"
+                                       Margin="0 10" FontSize="15"
+                                       HorizontalAlignment="Center"
+                                       TextWrapping="Wrap" />
+                            <ComboBox Style="{DynamicResource ComboBoxStyle}" 
+                                      SelectedItem="{Binding SelectedAlignment, Mode=TwoWay}" 
+                                      Margin="0 0 5 5" 
+                                      Height="32" Width="105" 
+                                      VerticalContentAlignment="Center" 
+                                      ItemsSource="{Binding AlignmentParameters}">
+                                <ComboBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding}"
+                                                   Height="23"
+                                                   FontSize="16" Width="75" 
+                                                   Margin="0 0 0 5" 
+                                                   VerticalAlignment="Center" />
+                                    </DataTemplate>
+                                </ComboBox.ItemTemplate>
+                            </ComboBox>
+                        </StackPanel>
+                        <Line Y1="0" Y2="70" VerticalAlignment="Center" Stroke="#e5d8a9" StrokeThickness="2" />
+                        <StackPanel Margin="20 0 20 10">
+                            <TextBlock Text="Font"
+                                       Margin="0 10" FontSize="15"
+                                       HorizontalAlignment="Center"
+                                       TextWrapping="Wrap" />
+                            <ComboBox Style="{DynamicResource ComboBoxStyle}" 
+                                      SelectedItem="{Binding SelectedFont, Mode=TwoWay}" 
+                                      Margin="0 0 5 5" 
+                                      Height="32" Width="105" 
+                                      VerticalContentAlignment="Center" 
+                                      ItemsSource="{Binding FontParameters}">
+                                <ComboBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding}"
+                                                   Height="23"
+                                                   FontSize="16" Width="75" 
+                                                   Margin="0 0 0 5" 
+                                                   VerticalAlignment="Center" />
+                                    </DataTemplate>
+                                </ComboBox.ItemTemplate>
+                            </ComboBox>
+                        </StackPanel>
+                        <Line Y1="0" Y2="70" VerticalAlignment="Center" Stroke="#e5d8a9" StrokeThickness="2" />
+                        <Line Y1="0" Y2="70" VerticalAlignment="Center" Stroke="#e5d8a9" StrokeThickness="2" />
+                        <StackPanel Margin="20 0 10 10">
+                            <TextBlock Text="Background color"
+                                       Margin="0 10 0 8" FontSize="15"
+                                       HorizontalAlignment="Center"
+                                       TextWrapping="Wrap" />
+                            <StackPanel Orientation="Horizontal">
+                                <RadioButton Style="{DynamicResource BackgroundRadioButtonStyle}" Background="#fdf8e8" 
+                                             IsChecked="{Binding FirstColor, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                                <RadioButton Style="{DynamicResource BackgroundRadioButtonStyle}" Background="#ffffff" 
+                                             IsChecked="{Binding SecondColor, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                                <RadioButton Style="{DynamicResource BackgroundRadioButtonStyle}" Background="#f8fad1" 
+                                             IsChecked="{Binding ThirdColor, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                                <RadioButton Style="{DynamicResource BackgroundRadioButtonStyle}" Background="#e8fdf4" 
+                                             IsChecked="{Binding FourthColor, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+            </Canvas>
+        </DockPanel>
+
+        <FlowDocumentReader Name="flowDocumentReader" Grid.Row="1" 
+                            Panel.ZIndex="0" 
+                            BorderBrush="Transparent" 
+                            ViewingMode="TwoPage"
+                            Zoom="10"
+                            IsScrollViewEnabled="False"
+                            Document="{Binding FlowDocumentProperty}"
+                            Tag="{Binding Path=FlowDocumentProperty}"
+                            FontFamily="{Binding Source={x:Static properties:DisplayBookSettings.Default}, Path=Font, UpdateSourceTrigger=PropertyChanged}">
+        </FlowDocumentReader>
+
+    </Grid>
+</UserControl>
