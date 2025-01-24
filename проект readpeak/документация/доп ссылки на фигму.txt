@@ -1,0 +1,2 @@
+Прототип UX представлен в приложении Л, ссылка на UX: https://www.figma.com/design/YrAzHP4QOZ59FGAMBVeGe6/ux17?node-id=0-1&p=f&t=JlAOx5I1K4Eyl4JM-0
+Прототип UI представлен в приложении Л, ссылка на UI: https://www.figma.com/file/qBatGp2qzYA3nRpAIZV4Fk?node-id=0-1&node-type=canvas&t=rq0ooixoCpV4QdsD-0&type=design&mode=design&fuid=1425031726326622792
